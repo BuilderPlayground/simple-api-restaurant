@@ -8,6 +8,12 @@ Powered by TheMealDB API, the application allows users to search by ingredient a
 
 Designed with restaurant operations and food-waste reduction in mind, LastCall explores how accessible recipe discovery can help kitchen teams find inspiration and make more intentional use of available ingredients.
 
+
+## Live Demo
+
+[Explore LastCall](https://lastcall-7ap.pages.dev/)
+
+
 ## Application Preview
 
 ![LastCall — Use Everything Up application preview](img/lastcall-use-everything-up.png)
